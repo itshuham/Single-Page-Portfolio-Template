@@ -45,7 +45,9 @@ You can deploy this template to any of your frontend project
 
 ## Project Screenshot
 ![Landing Page](landingpage.png)
+
 ![Work Showcase Page](workshowcasearea.png)
+
 ![Contact Page](contactform.png)
 
 
@@ -56,6 +58,6 @@ You can deploy this template to any of your frontend project
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
 
